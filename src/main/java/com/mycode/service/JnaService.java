@@ -5,7 +5,6 @@ import java.util.List;
 
 import com.sun.jna.Library;
 import com.sun.jna.Structure;
-import com.sun.jna.ptr.ByteByReference;
 import com.sun.jna.ptr.IntByReference;
 
 public interface JnaService extends Library {
